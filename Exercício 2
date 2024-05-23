@@ -1,0 +1,7 @@
+pontos_nba = 200
+gols_porJogo_brasileiro = 2.53
+
+print("Média de pontos por jogo na nba:", gols_porJogo_brasileiro)
+print("Média de gols por jogo brasileiro:", gols_porJogo_brasileiro)
+
+
